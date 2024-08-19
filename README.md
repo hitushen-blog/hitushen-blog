@@ -3,9 +3,9 @@
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
 [![Hitushen Blog](https://img.shields.io/badge/-Hitushen%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://www.hitushen.top)
-[![Telegram](https://img.shields.io/badge/-t.me/NacclOfficial-17c0eb?style=flat-square&logo=Telegram)](https://t.me/NacclOfficial)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Mail.Ru)](mailto:2287674693@qq.com)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaccl%2FNaccl&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
+[![Email](https://img.shields.io/badge/-i@Hitushen-ea4335?style=flat-square&logo=Mail.Ru)](mailto:2287674693@qq.com)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnQiLaYa%2FAnQiLaYa&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
+
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
@@ -21,5 +21,11 @@
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=AnQiLaYa&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Hitushen GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnQiLaYa&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnQiLaYa)](https://github.com/ryo-ma/github-profile-trophy)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnQiLaYa&theme=github-compact)
 
-
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnQiLaYa/AnQiLaYa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnQiLaYa/AnQiLaYa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnQiLaYa/AnQiLaYa/output/github-contribution-grid-snake.svg">
+</picture>
