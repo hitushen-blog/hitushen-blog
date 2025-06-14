@@ -4,7 +4,7 @@
 
 [![Hitushen Blog](https://img.shields.io/badge/-Hitushen%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://www.hitushen.top)
 [![Email](https://img.shields.io/badge/-i@Hitushen-ea4335?style=flat-square&logo=Mail.Ru)](mailto:2287674693@qq.com)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitushen-blog%2Fhitushen-blog&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
+
 
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
